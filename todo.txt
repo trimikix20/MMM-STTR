@@ -1,0 +1,22 @@
+design
+
+implémente to template module
+
+add show more detail 
+
+show (carte agent)
+
+add to calendar 
+      select day to work 
+      select day to assign 
+      select choice(full day,1 part,2 part)
+      
+if possible add favorie
+
+finish polishing json
+
+add extra to json 
+
+new template to display information for extra
+
+
